@@ -1,0 +1,41 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.bin
+*.app
+*.elf
+
+# Object and library files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Debug and symbol files
+*.dSYM/
+*.pdb
+*.ilk
+*.idb
+
+# Build output directories
+bin/
+build/
+dist/
+out/
+
+# VS Code directory (keep personal environment settings untracked)
+.vscode/
+
+# Temporary and editor files
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Test outputs
+*.log
