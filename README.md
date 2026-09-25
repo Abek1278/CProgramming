@@ -62,7 +62,8 @@ c-programming/
 ├── 16-dynamic-memory/                 # malloc, calloc, realloc, free
 ├── 17-file-handling/                  # File I/O (r, w, a), streams, operations
 ├── 18-projects/                       # Applied standalone projects
-└── notes/                             # Cheatsheets, deep concepts, mistake log
+├── notes/                             # Cheatsheets, deep concepts, mistake log
+└── examples.md                        # Master index for all 92 course examples & practice files
 ```
 
 ---
@@ -156,6 +157,7 @@ See details in [18-projects/](18-projects/README.md):
 
 ## 📖 Quick Notes & Reference
 
+* [Examples & Practice Index](examples.md) - Master tracking table of all 92 course examples with video timestamps.
 * [C Cheatsheet](notes/c-cheatsheet.md) - Syntax, format specifiers, data type sizes, standard headers.
 * [Important Concepts](notes/important-concepts.md) - Deep dive into stack vs heap, pointer mechanics, buffer safety.
 * [Mistakes Log](notes/mistakes.md) - Personal journal of compiler errors, logic pitfalls, and bug fixes.
