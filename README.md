@@ -36,38 +36,6 @@ True understanding comes from seeing how memory, pointers, and the compiler beha
 
 ---
 
-## 📂 Repository Structure
-
-```text
-c-programming/
-├── README.md                          # Repository overview and progress tracker
-├── .gitignore                         # Build artifact ignore rules
-├── LICENSE                            # MIT License
-│
-├── 01-introduction/                   # Setup, platforms, Hello World
-├── 02-variables-and-data-types/       # Variables, types, sizeof, user input
-├── 03-operators/                      # Arithmetic, relational, logical, bitwise
-├── 04-header-files/                   # Custom headers, prototypes, include guards
-├── 05-conditional-statements/         # If/else, switch, ternary, casting
-├── 06-loops/                          # For, while, do-while, nested loops
-├── 07-algorithms/                     # Flowcharts, pseudocode, linear search
-├── 08-debugging/                      # Debugging strategies, assertions, GDB
-├── 09-functions/                      # Functions, pass-by-value, recursion
-├── 10-arrays/                         # 1D arrays, matrices / 2D arrays
-├── 11-strings/                        # Null termination, string.h, algorithms
-├── 12-pointers/                       # Memory addresses, dereferencing, pointer math
-├── 13-structures/                     # Structs, nested structs, typedef
-├── 14-unions/                         # Union memory sharing
-├── 15-constants-and-enums/            # const, #define macros, enum types
-├── 16-dynamic-memory/                 # malloc, calloc, realloc, free
-├── 17-file-handling/                  # File I/O (r, w, a), streams, operations
-├── 18-projects/                       # Applied standalone projects
-├── notes/                             # Cheatsheets, deep concepts, mistake log
-└── examples.md                        # Master index for all 108 course examples & practice files
-```
-
----
-
 ## 📂 Folder-by-Folder Chronological Breakdown
 
 ### `01-introduction/`
