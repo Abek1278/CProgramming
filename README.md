@@ -15,25 +15,6 @@ This repository documents my hands-on learning journey as I work through a compr
 - Breaking code purposefully to understand compiler diagnostics, memory limits, and runtime behaviors.
 - Capturing personal notes, debugging techniques, and conceptual mental models.
 - Progressively designing real-world projects and problem solutions.
-
----
-
-## 💡 Learning Philosophy
-
-> **Learn the concept → Write the code → Break the code → Fix it → Build something with it.**
-
-True understanding comes from seeing how memory, pointers, and the compiler behave under the hood.
-
----
-
-## 🛠️ Tools & Environment
-
-* **Language Standard**: C99 / C11
-* **Compiler**: GCC (MinGW on Windows)
-* **Editor**: Visual Studio Code (C/C++ extension pack)
-* **Debugger**: GDB
-* **Version Control**: Git & GitHub
-
 ---
 
 ## 📂 Folder-by-Folder Chronological Breakdown
